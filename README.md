@@ -6,4 +6,5 @@ throughout different instances in the story of One Piece
 
 View on:
 
-https://hmohamud.github.io/odin-recipes
+https://hmohamud.github.io/odin-recipes/
+
